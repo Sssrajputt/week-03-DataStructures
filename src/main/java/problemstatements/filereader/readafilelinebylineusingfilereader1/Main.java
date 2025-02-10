@@ -12,6 +12,6 @@ public class Main {
         System.out.println("Enter a txt file you wants to read: ");
         String string = sc.nextLine();
         //calling method to readfile
-        ReadAFileLineByLineUsingFileReader.readFile(string);
+        ReadAFileLineByLineUsing.readFile(string);
     }
 }

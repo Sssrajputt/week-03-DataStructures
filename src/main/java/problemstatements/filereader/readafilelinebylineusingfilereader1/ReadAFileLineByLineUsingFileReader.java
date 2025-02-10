@@ -6,7 +6,7 @@ import java.io.IOException;
 
 
 //creating ReadAFileLineByLineUsingFileReader class
-public class ReadAFileLineByLineUsingFileReader {
+public class ReadAFileLineByLineUsing {
 
     //creating mathod to readfile
     public static String readFile(String string) {
